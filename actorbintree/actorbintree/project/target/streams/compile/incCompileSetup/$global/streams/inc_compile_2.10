@@ -1,0 +1,198 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$1.class
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$2.class
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$3.class
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$4$$anonfun$apply$1$$anonfun$1.class
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$4$$anonfun$apply$1$$anonfun$2.class
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$4$$anonfun$apply$1.class
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$4.class
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$.class
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild.class
+binary dependencies:
+11 items
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Program Files\Java\jdk1.6.0_45\jre\lib\rt.jar
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.7.jar
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.7.jar
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.7.jar
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.7.jar
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.7.jar
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.7.jar
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.7.jar
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\.ivy2\cache\scala_2.10\sbt_0.13\ch.epfl.lamp\sbt-coursera\jars\sbt-coursera-0.5.jar
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\.ivy2\cache\scala_2.10\sbt_0.13\org.scala-js\sbt-scalajs\jars\sbt-scalajs-0.6.2.jar
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> C:\Users\rgiangregorio\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ProgfunBuild
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ProgfunBuild$
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ProgfunBuild$$anonfun$assignmentSettings$1
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ProgfunBuild$$anonfun$assignmentSettings$2
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ProgfunBuild$$anonfun$assignmentSettings$3
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ProgfunBuild$$anonfun$assignmentSettings$4
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ProgfunBuild$$anonfun$assignmentSettings$4$$anonfun$apply$1
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ProgfunBuild$$anonfun$assignmentSettings$4$$anonfun$apply$1$$anonfun$1
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ProgfunBuild$$anonfun$assignmentSettings$4$$anonfun$apply$1$$anonfun$2
+used names:
+72 items
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> %
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> %%
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> *
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> **
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> +
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> +++
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> +=
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> /
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> /:
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> :=
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> <<=
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> <init>
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ==
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> Any
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> Append
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> CourseraBuild
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> InitializeInstance
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> Keys
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> Nothing
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> PathFinder
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> Predef
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ProgfunBuild
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> SbtCourseraPlugin
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ScalaJSPlugin
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> Scoped
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> Seq
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> Setting
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> String
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> _root_
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> append1
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> appendSeq
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> apply
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> autoImport
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> baseDirectory
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> basedir
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ch
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> collection
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> commonFiles
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> commonSourcePackages
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> commonSrcs
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> currentProject
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> details
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> detailsMap
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> empty
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> epfl
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> error
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> files
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> forAll
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> getOrElse
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> globFilter
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> handoutFiles
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> lamp
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> libraryDependencies
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> map
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> org
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> package
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> packageName
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> pkg
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> projectDetailsMap
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> projectName
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> pure
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> richFile
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> sbt
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> sbtplugin
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> scala
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> scalajs
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> set
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> singleFileFinder
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> sys
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> t3ToTable3
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> toGroupID
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> ||
+product stamps:
+9 items
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$1.class -> lastModified(1432218713290)
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$2.class -> lastModified(1432218713296)
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$3.class -> lastModified(1432218713305)
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$4$$anonfun$apply$1$$anonfun$1.class -> lastModified(1432218713349)
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$4$$anonfun$apply$1$$anonfun$2.class -> lastModified(1432218713356)
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$4$$anonfun$apply$1.class -> lastModified(1432218713342)
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$$anonfun$assignmentSettings$4.class -> lastModified(1432218713315)
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild$.class -> lastModified(1432218713275)
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\target\scala-2.10\sbt-0.13\classes\ProgfunBuild.class -> lastModified(1432218713214)
+source stamps:
+1 items
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> hash(085f8272de8ed87f5204b3e639fa9b812e16bd44)
+binary stamps:
+11 items
+C:\Program Files\Java\jdk1.6.0_45\jre\lib\rt.jar -> lastModified(1381455375778)
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.7.jar -> lastModified(1416378820000)
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.7.jar -> lastModified(1416378799000)
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.7.jar -> lastModified(1416378891000)
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.7.jar -> lastModified(1416378944000)
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.7.jar -> lastModified(1416378959000)
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.7.jar -> lastModified(1416378955000)
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.7.jar -> lastModified(1416378938000)
+C:\Users\rgiangregorio\.ivy2\cache\scala_2.10\sbt_0.13\ch.epfl.lamp\sbt-coursera\jars\sbt-coursera-0.5.jar -> lastModified(1428937730000)
+C:\Users\rgiangregorio\.ivy2\cache\scala_2.10\sbt_0.13\org.scala-js\sbt-scalajs\jars\sbt-scalajs-0.6.2.jar -> lastModified(1426584259000)
+C:\Users\rgiangregorio\.sbt\boot\scala-2.10.4\lib\scala-library.jar -> lastModified(1395179187000)
+class names:
+11 items
+C:\Program Files\Java\jdk1.6.0_45\jre\lib\rt.jar -> java.lang.Object
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.7.jar -> sbt.LinePosition$
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.7.jar -> sbt.PathFinder
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.7.jar -> sbt.impl.DependencyBuilders
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.7.jar -> sbt.Append$
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.7.jar -> sbt.BuildCommon
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.7.jar -> sbt.package$
+C:\Users\rgiangregorio\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.7.jar -> sbt.Task
+C:\Users\rgiangregorio\.ivy2\cache\scala_2.10\sbt_0.13\ch.epfl.lamp\sbt-coursera\jars\sbt-coursera-0.5.jar -> ch.epfl.lamp.CourseraBuild
+C:\Users\rgiangregorio\.ivy2\cache\scala_2.10\sbt_0.13\org.scala-js\sbt-scalajs\jars\sbt-scalajs-0.6.2.jar -> org.scalajs.sbtplugin.ScalaJSPlugin
+C:\Users\rgiangregorio\.sbt\boot\scala-2.10.4\lib\scala-library.jar -> scala.collection.Seq$
+internal apis:
+1 items
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBrrOuFAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBg06Bl0AAZub3RpZnlzcQB+AAzdozM2dAAEd2FpdHNxAH4ADBhzEuF0AA0kYXNJbnN0YW5jZU9mc3EAfgAM6MGeFXQADGJ1aWxkTG9hZGVyc3NxAH4ADOrEmEd0ABpncmFkZVByb2plY3REZXRhaWxzU2V0dGluZ3NxAH4ADAfhcbx0AAZlcXVhbHNzcQB+AAwuMOBLdAAMZ3JhZGVTZXR0aW5nc3EAfgAMzlxk23QADGFzSW5zdGFuY2VPZnNxAH4ADHiHpEp0ABJwcm9qZWN0RGVmaW5pdGlvbnNzcQB+AAw9neQqdAAPc2V0TWF4U2NvcmVIb29rc3EAfgAMl7voFHQAEnNldE1heFNjb3JlU2V0dGluZ3NxAH4ADEDnQjl0AAxzeW5jaHJvbml6ZWRzcQB+AAzhujVLdAANJGlzSW5zdGFuY2VPZnNxAH4ADDA7OS10AAxQcm9nZnVuQnVpbGRzcQB+AAy8ZjHHdAAZc2VsZWN0UmVzb3VyY2VzRm9yUHJvamVjdHNxAH4ADIb1frB0AAlub3RpZnlBbGxzcQB+AAyIa0f4dAALcm9vdFByb2plY3RzcQB+AAyv0Lq6dAAMaXNJbnN0YW5jZU9mc3EAfgAMnOwMfXQAE2dyYWRlUHJvamVjdERldGFpbHNzcQB+AAwdRHNFdAAZdGVzdFNvdXJjZXNGcm9tQXNzaWdubWVudHNxAH4ADP/mekJ0ABJhc3NpZ25tZW50U2V0dGluZ3NzcQB+AAwr82MudAAFZ3JhZGVzcQB+AAygXSJMdAACPT1zcQB+AAxymBhMdAARc3VibWlzc2lvblByb2plY3RzcQB+AAzw91iKdAAFY2xvbmVzcQB+AAwCgFGxdAALc2V0TWF4U2NvcmVzcQB+AAzdZgIGdAARYXNzaWdubWVudFByb2plY3RzcQB+AAwSHqczdAAIdG9TdHJpbmdzcQB+AAxfAY1AdAACIT1zcQB+AAz5wOqCdAAIcHJvamVjdHNzcQB+AAyOcTu9dAAXcmVzb3VyY2VzRnJvbUFzc2lnbm1lbnRzcQB+AAwQPr+ldAAIZ2V0Q2xhc3NzcQB+AAy2a4sSdAAVc2VsZWN0VGVzdHNGb3JQcm9qZWN0c3EAfgAM9f0WH3QAAm5lc3EAfgAM+xYktXQADGRlcGVuZGVuY2llc3NxAH4ADPl18+t0AAJlcXNxAH4ADDpXqA50AAhzZXR0aW5nc3NxAH4ADGA7gad0AAIjI3NxAH4ADFTJUrF0AAhmaW5hbGl6ZXNxAH4ADFOI6bJ0AAhoYXNoQ29kZXNxAH4ADJDH+sd0ABtzdHlsZUNoZWNrU3VibWlzc2lvblNldHRpbmdzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCBeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCAAHBzcQB+AIVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AaUwACWluaGVyaXRlZHEAfgBpTAAHcGFyZW50c3EAfgBpeHEAfgCJc3EAfgCAAHBzcQB+AIV1cQB+AGQAAAAAc3EAfgCAAHBzcQB+AIV1cQB+AGQAAAAAc3EAfgCAAHBzcQB+AIV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIh0AA1Db3Vyc2VyYUJ1aWxkc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCIc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAJjaHNxAH4ApXQABGVwZmxzcQB+AKV0AARsYW1wc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKZzcQB+AJl0AAVCdWlsZHNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcQB+AKV0AANzYnRxAH4ArnNxAH4AmXQABk9iamVjdHNxAH4AnXNxAH4AoHVxAH4AowAAAANzcQB+AKV0AARqYXZhc3EAfgCldAAEbGFuZ3EAfgCuc3EAfgCZdAADQW55c3EAfgCdc3EAfgCgdXEAfgCjAAAAAnNxAH4ApXQABXNjYWxhcQB+AK51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTXbjIbN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdACVQzpcVXNlcnNccmdpYW5ncmVnb3Jpb1xEb2N1bWVudHNcd29ya3NwYWNlLWNvdXJzZXJhXFJlYWN0aXZlUHJvZ3JhbW1pbmdXaXRoU2NhbGFcYWN0b3JiaW50cmVlXGFjdG9yYmludHJlZVxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQIX4Jy3o7Yf1IEs+Y5+puBLha9RA==
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\rgiangregorio\Documents\workspace-coursera\ReactiveProgrammingWithScala\actorbintree\actorbintree\project\ReactiveBuild.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTXbjIbN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAlUM6XFVzZXJzXHJnaWFuZ3JlZ29yaW9cRG9jdW1lbnRzXHdvcmtzcGFjZS1jb3Vyc2VyYVxSZWFjdGl2ZVByb2dyYW1taW5nV2l0aFNjYWxhXGFjdG9yYmludHJlZVxhY3RvcmJpbnRyZWVccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABLw==
